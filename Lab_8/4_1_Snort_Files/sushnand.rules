@@ -1,0 +1,4 @@
+alert tcp any any -> 192.168.122.183 22 (msg:"Trying SSH attempt from IP"; sid:51;)
+alert tcp any any -> 192.168.122.183 80 (msg: "Receiving HTTP request to server"; sid:52;)
+alert tcp 192.168.122.183 any -> 157.240.192.0/18 any (msg:"Attempting to connect to facebook detected";sid:53;)
+alert tcp any any -> 192.168.122.183 1000:1010 (msg:"Port Scan attempted"; flags:S; sid:54;)
