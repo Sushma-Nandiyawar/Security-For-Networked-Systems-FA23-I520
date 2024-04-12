@@ -1,10 +1,10 @@
 # Network Security Course
 
-Welcome to the Network Security course repository! This repository contains assignments performed for Security For Networked Systems course.
+Welcome to the Security For Networked Systems course repository! This repository contains all Lab Assignments performed for this course.
 
 ## Course Description
 
-This course is an in-depth exploration of network security, covering threats to information confidentiality, integrity, and availability across different layers of the Internet. We delve into defense mechanisms that mitigate these threats and provide a solid foundation in network security principles, including cryptographic primitives/protocols, authentication, authorization, and access control technologies.
+This course is an in-depth exploration of network security, covering threats to information confidentiality, integrity, and availability across different layers of the Internet. The coursework delves into defense mechanisms that mitigate these threats and provide a solid foundation in network security principles, including cryptographic primitives/protocols, authentication, authorization, and access control technologies.
 
 ## Modules
 
