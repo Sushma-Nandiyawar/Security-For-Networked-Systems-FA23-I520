@@ -24,10 +24,6 @@ This course is an in-depth exploration of network security, covering threats to 
 
 **NB (Networking Background):** [Computer Networks: A Systems Approach (4th Edition)](https://iucat.iu.edu/catalog/14609538) by Larry L. Peterson and Bruce S. Davie. This book is available online via the IU library at [https://iucat.iu.edu/catalog/14609538](https://iucat.iu.edu/catalog/14609538). It is recommended for individuals with limited knowledge of computer network topics or those in need of a refresher.
 
-## Getting Started
-
-To get started with the course materials, clone this repository to your local machine using the following command:
-
 ## Instructor's Contact Information
 
 **Dr. Yan Huang**  
@@ -35,6 +31,10 @@ Associate Professor
 
 **Preferred Contact Method:**  
 IU email: [yh33@indiana.edu](mailto:yh33@indiana.edu)
+
+## Getting Started
+
+To get started with the course materials, clone this repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/yourusername/network-security-course.git
