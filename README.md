@@ -28,6 +28,14 @@ This course is an in-depth exploration of network security, covering threats to 
 
 To get started with the course materials, clone this repository to your local machine using the following command:
 
+## Instructor's Contact Information
+
+**Dr. Yan Huang**  
+Associate Professor  
+
+**Preferred Contact Method:**  
+IU email: [yh33@indiana.edu](mailto:yh33@indiana.edu)
+
 ```bash
 git clone https://github.com/yourusername/network-security-course.git
 
